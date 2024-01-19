@@ -5,8 +5,8 @@ https://www.tinkercad.com/things/btEEbI4GKfJ?sharecode=uvej-6qfHOOzmB0-nvRRMfw3s
 
 ## Description
 
-This program simulates the Simon Says Game with Arduino components. Simon Says is basically a game 
-where the lights would flash in some random sequeuence and it's your job to mimic the same order 
+This program simulates the Simon Says Game with Arduino components. Simon Says is a game 
+where the lights would flash in some random sequence and it's your job to mimic the same order 
 with the buttons.
 
 ## Getting Started
@@ -17,7 +17,7 @@ with the buttons.
 
 ### Installing
 
-* To use the program just click on the tikercad link at the top
+* To use the program just click on the Tikercad link at the top
   
 ### Executing program
 
@@ -25,7 +25,7 @@ with the buttons.
 * When you run the program the game should start
 * Just follow the light sequences with the button sequences (just like you would do in a Simon Says game)
 * If you get one of the lights wrong the game resets by itself
-* When you get 5 light sequences right in a row, you win the game! A win sequence should show up
+* You win the game When you get 5 light sequences right in a row! A win sequence should show up
 * After you win the game just resets into a random sequence
 
 ## Authors
